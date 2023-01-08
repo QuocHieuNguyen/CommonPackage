@@ -1,0 +1,23 @@
+{
+    "name": "com.quochieu.common",
+    "version": "1.0.0",
+    "displayName": "Common Package",
+    "description": "Common Package",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {
+   },
+   "gitDependencies": {
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+  },
+   "keywords": [
+    ],
+    "author": {
+      "name": "Quoc Hieu",
+      "email": "quochieuforwork@gmail.com",
+      "url": "https://www.unity3d.com"
+    }
+  }
