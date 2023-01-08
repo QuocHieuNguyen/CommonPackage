@@ -8,7 +8,7 @@
     "documentationUrl": "https://example.com/",
     "changelogUrl": "https://example.com/changelog.html",
     "licensesUrl": "https://example.com/licensing.html",
-    "dependencies": {
+    "addDependencies": {
       "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
    },
    "gitDependencies": {
