@@ -8,8 +8,9 @@
     "documentationUrl": "https://example.com/",
     "changelogUrl": "https://example.com/changelog.html",
     "licensesUrl": "https://example.com/licensing.html",
-    "addDependencies": {
-      "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+    "dependencies": {
+      "com.unity.test-framework": "1.1.14",
+      "com.unity.textmeshpro": "3.0.0-preview.1"
    },
    "gitDependencies": {
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
